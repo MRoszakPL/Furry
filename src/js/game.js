@@ -110,6 +110,9 @@ function Game() {
             } else {
                 document.querySelector('#over').classList.remove('invisible');
                 document.querySelector('#over').classList.add('flex');
+                document.querySelector('#over').style.backgroundColor = 'white';
+                document.querySelector('#over').style.backgroundImage = ' url("./images/grumpy.jpg")';
+
             }
 
             return false;
