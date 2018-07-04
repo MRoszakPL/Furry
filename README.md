@@ -1,7 +1,7 @@
 # Furry
 Simple game created during Coder's Lab bootcamp
 
-####Main objective of game
+#### Main objective of game
 
 Eat coins to increase your score. How many u can eat?
 
